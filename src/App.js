@@ -17,7 +17,7 @@ function App() {
         <TabPanel label="Tab 3">
           Content for Tab 3
         </TabPanel>
-        
+
       </Tabs>
     </div>
   );
