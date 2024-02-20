@@ -19,7 +19,7 @@ function App() {
         </TabPanel>
 
       </Tabs>
-      <div>>3 TAB CONTAINER: git brach - main </div>
+      <div className='TAG'>__Gallery ONE</div>
     </div>
   );
 }
